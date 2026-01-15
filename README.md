@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi, I'm Harris 👋
 
-<!--
-**HarrisLab0/HarrisLab0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Web Developer focused on lightweight web applications.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- Python
+- Flask
+- SQLite / MySQL
+- HTML, Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 What I Do
+- Web admin sederhana
+- Database migration (CSV / Excel to DB)
+- Web maintenance & bug fixing
+
+### 📌 Featured Project
+**Lightweight Flask Admin System**
+- Login & CRUD
+- Import CSV
+- Export Excel
+- SQLite Database
+
+📎 Demo: (soon)  
+📎 Repo: (soon)
+
+### 📫 Contact
+- Email: oxigenmars@gmail.com
+- Telegram / WhatsApp
